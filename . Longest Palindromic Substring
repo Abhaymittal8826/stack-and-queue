@@ -1,6 +1,6 @@
 class Solution {
 public:
-      
+      //subsrice to my ytube channel 
     string longestPalindrome(string s) {
         solve(0,s.size()-1,s);
     }
